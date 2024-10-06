@@ -1,0 +1,80 @@
+body{
+    background-image: url(img/pp.jpg);
+}
+
+.b img{
+    position:absolute;
+    margin: 0;
+}
+.c{
+    width: 450px;
+    height: 500px;
+    padding-top: 5px;
+}
+
+.mm nav{
+    color: white;
+    padding-left: 600px;
+    position: absolute;
+    text-shadow: 3px 3px 4px black;
+    font-family: monospace;
+    padding-top: 2px;
+}
+
+.mm h1{
+    font-size: 60px;
+}
+.n{
+    width: 80px;
+    padding-left: 480px;
+    padding-top: 60px;
+}
+
+.f{
+    width: 80px;
+    padding-left: 480px;
+    padding-top: 420px;
+}
+
+.y{
+    width: 80px;
+    padding-top: 180px;
+    padding-left: 480px;
+}
+
+.e{
+    width: 80px;
+    padding-top: 300px;
+    padding-left: 480px;
+}
+
+.d{
+    width: 450px;
+    height: 500px;
+    padding-left: 900px;
+    padding-top: 5px;
+    position: absolute;
+}
+
+.button{
+    background-color: rgba(24, 162, 153, 0.638);
+    width:2cm; 
+    height:25px;
+    color:white;
+    transition: 2s;
+    font-weight: 700px;
+}
+.button:hover{
+    background-color:rgba(121, 228, 255, 0.53);
+    color:black;
+    border-radius: 2cm;
+}
+
+
+.click{
+    padding-top: 570px;
+    padding-left: 500px;
+    text-shadow: 3px 3px 5px black;
+    margin: 0;
+
+}
